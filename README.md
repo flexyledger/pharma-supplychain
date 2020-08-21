@@ -1,4 +1,3 @@
 # pharma-supplychain.
-...
 
 
