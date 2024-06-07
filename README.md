@@ -32,7 +32,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license. However, please keep in mind that this project is not suitable for real-world deployment or managing actual pharmaceutical supply chains.
 
-
+## Logs
 
 
 
