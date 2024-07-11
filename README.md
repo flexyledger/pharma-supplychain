@@ -1,4 +1,4 @@
-# Pharma Supply Chain
+# 💫 Pharma Supply Chain
 
 This project is a decentralized application (DApp) built on the Ethereum blockchain, implementing a pharmaceutical supply chain system using Solidity smart contracts. It is developed for educational and experimental purposes, aiming to showcase the functionality of a supply chain solution but is not intended for real-world use cases.
 
