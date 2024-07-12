@@ -13,26 +13,26 @@ This project is currently under development and may not be feature-complete or f
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+# Installation
 
 1. Clone the repository: `git clone https://github.com/flexyledger/pharma-supplychain.git`
 2. Install the required dependencies.
 
-## Usage
+# Usage
 
 1. Deploy the Solidity smart contracts to a local development blockchain or test network.
 2. Interact with the deployed contracts using a compatible Ethereum wallet or DApp browser.
 3. Follow the provided documentation to understand the various functions and workflows of the pharmaceutical supply chain.
 
-## Contributing
+# Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
+# License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license. However, please keep in mind that this project is not suitable for real-world deployment or managing actual pharmaceutical supply chains.
 
-## Logs
+# Logs
 
 
 
