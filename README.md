@@ -32,8 +32,45 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license. However, please keep in mind that this project is not suitable for real-world deployment or managing actual pharmaceutical supply chains.
 
-# Logs
+# Changelogs
 
+<!-- Add license code
+
+-->
+
+<!-- Changelogs 
+# 📜 Changelogs
+
+<!-- Background github cover with short introduction down below 
+
+
+# README
+
+> [!NOTE]
+> Sample only bala ka sa buhay mo
+
+> [!TIP]
+>  Ey ka muna Ey Eyy
+> Add Contribution
+> Add comment
+
+> [!IMPORTANT]
+> Crucial Important deep shit
+
+> [!WARNING]
+> Mama mo warning
+> Papa mo warning
+
+> Will create table
+> And Topic
+> Partial code only
+> Idol Luka
+> Hello nothing to edit for now
+> Implement blockchain soon 
+> No code for today
+> Will do this in weekend
+> Will do this later
+-->
 
 
 
