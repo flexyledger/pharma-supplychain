@@ -34,10 +34,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 # Changelogs
 
-<!-- Add license code
-
--->
-
 <!-- Changelogs 
 # 📜 Changelogs
 
