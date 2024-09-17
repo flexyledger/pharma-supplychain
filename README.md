@@ -59,11 +59,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 > Will create table
 > And Topic
-> Partial code only
-> Idol Luka
 > Hello nothing to edit for now
 > Implement blockchain soon 
-> No code for today
 > Will do this in weekend
 > Will do this later
 > Will do today promise
