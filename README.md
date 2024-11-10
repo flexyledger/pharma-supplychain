@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 > Sample only bala ka sa buhay mo
 
 > [!TIP]
->  Ey ka muna Ey Eyy
+> 
 > Add Contribution
 > Add comment
 
@@ -54,17 +54,13 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 > Crucial Important deep shit
 
 > [!WARNING]
-> Mama mo warning
-> Papa mo warning
+> 
+> 
 
 > Will create table
 > And Topic
 > Hello nothing to edit for now
 > Implement blockchain soon 
-> Will do this in weekend
-> Will do this later
-> Will do today promise
-> Will revise this code 
 > Supply chain sa DSA
 > DSA
 -->
