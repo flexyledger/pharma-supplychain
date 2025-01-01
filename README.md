@@ -63,6 +63,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 > Implement blockchain soon 
 > Supply chain sa DSA
 > DSA
+> Will use this in my InfoManagement
 -->
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
